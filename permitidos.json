@@ -1,0 +1,5 @@
+{
+    "extensions": [".py", ".txt",".css",".html",".js",
+    ".json",".csv",".php",".xml",".md","scss",".yml",".ini",".exe",".bat",".cmd"],
+    "ignorar": [".git", "__pycache__", "node_modules", "venv", ".vscode",".angular"]  
+}

@@ -1,0 +1,17 @@
+C#/
+└── ConsoleApp1/
+    ├── bin/
+    │   └── Debug/
+    │       └── net8.0-windows/
+    │           ├── ConsoleApp1.deps.json
+    │           ├── ConsoleApp1.exe
+    │           └── ConsoleApp1.runtimeconfig.json
+    └── obj/
+        ├── ConsoleApp1.csproj.nuget.dgspec.json
+        ├── Debug/
+        │   └── net8.0-windows/
+        │       ├── apphost.exe
+        │       ├── ConsoleApp1.csproj.FileListAbsolute.txt
+        │       ├── ref/
+        │       └── refint/
+        └── project.assets.json
