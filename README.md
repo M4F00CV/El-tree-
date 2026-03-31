@@ -7,3 +7,6 @@ Mover variables de permitidos.json para el caso de querer quitar o poner mas arc
 para el caso de
 python arbol.py <ruta a partir de la carpeta actual> > archivos.txt
 guarda el arbol en el txt por si ocupamos pasar
+
+voy a ocupar esto tambien para hacer uso de cambiar formato de imagenes, que tenia HEIC y las queria/ocupaba en jpg
+python convertir.py <carpeta_entrada> <carpeta_salida>

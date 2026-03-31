@@ -1,5 +1,12 @@
 {
     "extensions": [".py", ".txt",".css",".html",".js",
-    ".json",".csv",".php",".xml",".md","scss",".yml",".ini",".exe",".bat",".cmd"],
+    ".json",".csv",".php",".xml",".md","scss",".yml",".ini",".exe",".bat",".cmd",".sh",".ps1",".yaml",
+    ".ts",".tsx",".jsx",".vue",".go",".rs",".dart",".swift",".kt",".java",".c",".cpp",".h",".hpp",".cs",".rb",".pl",".lua",".sql",".r",".m",".ipynb",
+    ".zip",".tar",".gz",".rar",".7z",".iso",".dmg",".apk",".exe",".bin",".dll",".so",".deb",".rpm",
+     ".doc",".docx",".xls",".xlsx",".ppt",".pptx",".pdf",".epub",".fb2",".djvu",".cbz",".cbr",".avi",".mp4",".mkv",".mp3",".wav",".flac",".ogg",".aac",".opus",
+    ".xancron",".xancron",".xancronignore",".gitignore",".dockerignore",".npmignore",".xacro",".editorconfig",".prettierignore",".eslintignore",".stylelintignore",".gitattributes",
+    ".rviz",".launch",".urdf",".sdf",".xacro",".gazebo",".world",".sdf",".xacro",".log",".zsh",".bash",".bashrc",".bash_profile",".zshrc",".profile",".env",".env.local",".env.development",".env.production",".env.test,",
+    ".env.example",".env.sample",".env.local.example",".env.development.example",".env.production.example",".env.test.example"
+    ],
     "ignorar": [".git", "__pycache__", "node_modules", "venv", ".vscode",".angular"]  
 }
